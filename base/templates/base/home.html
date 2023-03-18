@@ -9,9 +9,8 @@
   <div>
     {% for room in rooms %}
     <div>
-      <h2>{{room.id}} - {{room.name}}</h2>
+      <h2>{{room.id}} - <a href="{% url 'room' room.id %}">{{room.name}}</h2></a>
     </div>
-
     {% endfor %}
   </div>
 </div>
