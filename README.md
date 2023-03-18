@@ -32,7 +32,7 @@ A pure backend django project
 
 ```
 
-- %- Running the App
+- 5- Running the App
 
  ```bash
     python manage.py runserver
