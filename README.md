@@ -47,7 +47,6 @@ A pure backend django project
 ## Features
 
 - User register - login
-- CRUD for user profile
 - CRUD for Rooms
 - Chat Room Messages CRUD
 - Activity Feeds
